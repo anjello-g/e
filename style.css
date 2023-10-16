@@ -232,7 +232,7 @@ ul.toggle > li {
 
 ul {
 	padding-inline-start: 1.7em;
-	font-size: 1.25em;
+	font-size: 1em;
 }
 
 ul > li {
@@ -241,7 +241,7 @@ ul > li {
 
 ol {
 	padding-inline-start: 1.6em;
-	font-size: 1.25em;
+	font-size: 1em;
 }
 
 ol > li {
@@ -296,17 +296,17 @@ ol > li {
 	margin-top: 1em;
 	font-size: 0.875rem;
 	empty-cells: show;
-            font-size: 1.25em;
+            font-size: 1em;
 }
 .simple-table td {
 	height: 29px;
 	min-width: 120px;
-	font-size: 1.2em;
+	
 }
 .simple-table th {
 	height: 29px;
 	min-width: 120px;
-	font-size: 1.2em;
+	
 }
 
 .simple-table-header-color {
