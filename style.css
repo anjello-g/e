@@ -237,7 +237,6 @@ ul {
 
 ul > li {
 	padding-left: 0.1em;
-	font-size: 1.25em;
 }
 
 ol {
@@ -247,7 +246,6 @@ ol {
 
 ol > li {
 	padding-left: 0.2em;
-	font-size: 1.25em;
 }
 
 .mono ol {
