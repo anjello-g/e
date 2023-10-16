@@ -232,7 +232,7 @@ ul.toggle > li {
 
 ul {
 	padding-inline-start: 1.7em;
-	font-size: 1em;
+	font-size: 1.25em;
 }
 
 ul > li {
@@ -241,7 +241,7 @@ ul > li {
 
 ol {
 	padding-inline-start: 1.6em;
-	font-size: 1em;
+	font-size: 1.25em;
 }
 
 ol > li {
